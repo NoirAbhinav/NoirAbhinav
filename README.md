@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, Golang, Kafka**
 
-- 👯 I’m looking to collaborate on [OpenCV](https://github.com/opencv/opencv)
+- 👯 I’m currently working with **Python, Golang, Django, FastAPI, Rust, RabbitMQ, Docker, Redis, Grafana**
 
 - 💬 Ask me about **Python, Golang, Django, FastAPI, Rust**
 
