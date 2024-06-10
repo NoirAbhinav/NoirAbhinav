@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Nair</h1>
-<h3 align="center">A passionate ML developer from India currently working in a finctech on Recommender systems and have a passion for LLM's and MLOPS in general</h3>
+<h3 align="center">A Fullstack developer with more focus on  backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noirabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="noirabhinav" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on a Fullstack project [FullStackProject-with-ML](https://github.com/NoirAbhinav/FullStackProject-with-ML)
 
-- 🌱 I’m currently learning **Guardrails, Scala, Langchain, Airflow**
+- 🌱 I’m currently learning **Rust, Golang, Kafka**
 
 - 👯 I’m looking to collaborate on [OpenCV](https://github.com/opencv/opencv)
 
-- 💬 Ask me about **Tensorflow, PyTorch, Python, Data Analysis**
+- 💬 Ask me about **Python, Golang, Django, FastAPI, Rust**
 
 - 📫 How to reach me **abhinavbbps2000@gmail.com**
 
