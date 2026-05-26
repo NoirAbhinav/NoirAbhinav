@@ -5,11 +5,11 @@
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noirabhinav" alt="noirabhinav" /></a> </p>)
 
-- 🔭 I’m currently working on a Fullstack project [FullStackProject-with-ML](https://github.com/NoirAbhinav/PersonalManager)
+- 🔭 I’m currently working on a Fullstack project [PersonalManager](https://github.com/NoirAbhinav/PersonalManager)
 
 - 🌱 I’m currently learning **Rust, Golang, Kafka**
 
-- 👯 I’m currently working with **Python, Golang, Django, FastAPI, Rust, RabbitMQ, Docker, Redis, Grafana**
+- 👯 I’m currently working with **Python, Golang, Django, FastAPI, Rust, RabbitMQ, Docker, Redis, Grafana, Kubernetes**
 
 - 💬 Ask me about **Python, Golang, Django, FastAPI, Rust**
 
