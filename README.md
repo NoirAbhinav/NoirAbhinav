@@ -5,7 +5,7 @@
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noirabhinav" alt="noirabhinav" /></a> </p>)
 
-- 🔭 I’m currently working on a Fullstack project [FullStackProject-with-ML](https://github.com/NoirAbhinav/FullStackProject-with-ML)
+- 🔭 I’m currently working on a Fullstack project [FullStackProject-with-ML](https://github.com/NoirAbhinav/PersonalManager)
 
 - 🌱 I’m currently learning **Rust, Golang, Kafka**
 
